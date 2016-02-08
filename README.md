@@ -1,5 +1,5 @@
 # SuggestionAPI
-Convert API repsonse to CSV
+Convert API response to CSV.
 #Files :
 Suggestion.java models the suggestion as object.
 
